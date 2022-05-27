@@ -1,0 +1,25 @@
+      h1 {
+        text-align: center;
+        text-decoration: overline;
+      }
+      h2 {
+        border: 5px solid green;
+        padding: 5px;
+      }
+      .col-md-4 {
+        width: 440px;;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        background-color: rgb(159, 232, 208);
+      }
+      
+      
+      .col-sm-6 {
+        width: 440px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        background-color: rgb(159, 232, 208);
+
+      }
